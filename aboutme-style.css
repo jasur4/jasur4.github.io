@@ -16,3 +16,15 @@ img {
 	height: 200px;
 	width: 300px;
 }
+
+a:link {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+p::first-letter {
+	font-size: 150%;
+}
