@@ -1,0 +1,18 @@
+body {
+	background-color: grey;
+}
+
+h1 {
+	font-family: Georgia;
+	color: black;
+}
+
+p {
+	font-family: Calibri;
+	color: black;
+}
+
+img {
+	height: 200px;
+	width: 300px;
+}
